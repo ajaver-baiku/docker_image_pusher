@@ -1,1 +1,1 @@
-corentinth/it-tools
+emqx/emqx:5.3.0
