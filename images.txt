@@ -1,1 +1,1 @@
-quay.io/argoproj/argocd-applicationset:v0.4.1
+registry.cn-beijing.aliyuncs.com/kubegemsapp/elasticsearch:8.1.0
