@@ -1,1 +1,1 @@
-registry.cn-beijing.aliyuncs.com/kubegemsapp/kibana:7.13.2
+asmeenray/jdk-17
