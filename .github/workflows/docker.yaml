@@ -26,7 +26,7 @@ jobs:
 
     - name: Build and push image Aliyun
       run: |
-        docker login -u 286925771@qq.com -p Haojiao520. registry.cn-hangzhou.aliyuncs.com
+        docker login -u 286925771@qq.com -p haojiao0011 registry.cn-hangzhou.aliyuncs.com
         while IFS= read -r line; do
           [[ -z "$line" ]] && continue
           echo "docker pull $line"
