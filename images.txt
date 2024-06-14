@@ -1,1 +1,1 @@
-asmeenray/jdk-17
+mysql
