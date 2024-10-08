@@ -1,1 +1,1 @@
-quay.io/minio/minio:RELEASE.2023-10-25T06-33-25Z
+openjdk:8-jre
