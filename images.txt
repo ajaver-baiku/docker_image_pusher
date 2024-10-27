@@ -1,1 +1,1 @@
-node:latest
+mariadb:10.4.30
