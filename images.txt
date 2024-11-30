@@ -1,1 +1,1 @@
-apache/skywalking-ui:9.2.0
+liyongyao/kubesphere:devops-builder-base-v1.0.0
