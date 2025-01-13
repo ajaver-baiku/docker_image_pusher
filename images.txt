@@ -1,1 +1,1 @@
-kafkace/kafka:v3.5.1
+haproxy:2.4.24
