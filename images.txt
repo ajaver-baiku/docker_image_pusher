@@ -1,1 +1,1 @@
-haproxy:2.4.24
+rockylinux:9.3.20231119
